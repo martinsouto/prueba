@@ -1,2 +1,2 @@
 # prueba
-Este es el readme de main
+Este es el readme de dos
